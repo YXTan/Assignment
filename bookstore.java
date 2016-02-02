@@ -171,6 +171,7 @@ public class bookstore {
                 }
                 //print the receipt and do the calculation
                 double booksTotal, packsTotal, bookmarksTotal, paintingsTotal, subtotal, total, tax, extra;
+                double discount;
 					
                 booksTotal = bookNum * BOOK_PRICE;
                 extra = extrafee * 1;
@@ -191,6 +192,7 @@ public class bookstore {
                     total = tax + subtotal;
                 }
 				
+				discount = tax + subtotal - total;
 				//print out the recipst	with proper format
                 System.out.println();
                 System.out.println("Here is the receipt");
@@ -217,6 +219,7 @@ public class bookstore {
                 System.out.println();
                 System.out.printf("Subtotal:     $%.2f\n", subtotal);               
                 System.out.printf("Tax:          $%.2f\n", tax);
+                System.out.printf("Discount:     $%.2f\n", discount);
                 System.out.printf("Total:        $%.2f\n", total);
 
                 System.out.println("----------------------");
