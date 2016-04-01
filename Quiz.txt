@@ -1,0 +1,43 @@
+Which Pokemon is of fire type?
+4
+Pikachu
+Charmander
+Bulbasaur
+Squirtle
+2
+0
+0
+Which Pokemon does’t have Mega Evolution?
+4
+Charizard
+Venusaur
+Raichu
+Pidgeot
+2
+0
+0
+What is the next generation of Pokemon?
+5
+Gen4
+Gen5
+Gen6
+Gen7
+I don’t know
+3
+0
+0
+What is the name of the newest Pokemon game?
+2
+Sun and Moon
+Bright and Dark
+0
+0
+0
+Can Pikachu mega evolute?
+3
+Yes
+No
+Don’t know
+1
+0
+0
